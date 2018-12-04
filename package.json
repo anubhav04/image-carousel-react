@@ -1,0 +1,34 @@
+{
+  "name": "image-carousel-react",
+  "version": "0.0.1",
+  "description": "Responsive image carousel for reactjs.",
+  "main": "index.js",
+  "author": "anubhav.techanthusiast@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubhav04/image-carousel-react.git"
+  },
+  "homepage": "https://github.com/anubhav04/image-carousel-reactt#readme",
+  "keywords": [
+    "image carousel",
+    "image carousel for react",
+    "image carousel for reactjs",
+    "responsive image carousel for react",
+    "responsive image carousel",
+    "responsive image carousel for reactjs"
+    "image slider for reactjs",
+    "responsive image slider for react",
+    "responsive image slider",
+    "responsive image slider for reactjs"
+    "gallery slider for reactjs",
+    "responsive gallery slider for react",
+    "responsive gallery slider",
+    "responsive gallery slider for reactjs"
+  ]
+}
