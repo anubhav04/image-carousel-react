@@ -1,19 +1,12 @@
 Directory Structure JSON For ReactJs
 ====================================
+* Image carousel component for ReactJs
 
-This module exposes functions with which you can:
-
-* Get a JSON tree/structure of a folder (including subdirectories and files), note that you have specify the `filesystem` to use yourself. You can get JSON tree for a directory with `n` levels of children.
-* Traverse a structure, giving callbacks to execute when a file or folder is found.
-
-* It gives you all the details of the file and folder including date created, size in actual units, file extension and local path.
-
-* You can use to it get only size of file you are uploading: Size Units: ['bytes', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB']
 
 
 ## Installation
-    npm install --save json-dir-tree-react
-    yarn add json-dir-tree-react
+    npm install --save image-carousel-react
+    yarn add image-carousel-react
 
 ## Example
 
@@ -50,7 +43,9 @@ export default class Example extends Component{
   }
   render(){
     return(
-      <ReactImageCarousel images={this.state.images}/>
+      <ReactImageCarousel images={this.state.images}
+      defaultImage={`default image index`}
+      />
     )
   }
 }
