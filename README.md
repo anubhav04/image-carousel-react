@@ -1,4 +1,4 @@
-Directory Structure JSON For ReactJs
+Image Carousel For ReactJs
 ====================================
 * Image carousel component for ReactJs
 

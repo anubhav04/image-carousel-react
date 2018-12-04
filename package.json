@@ -1,6 +1,6 @@
 {
   "name": "image-carousel-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Responsive image carousel for reactjs.",
   "main": "index.js",
   "author": "anubhav.techanthusiast@gmail.com",
